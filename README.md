@@ -10,6 +10,7 @@
 | 名字 | 链接 | 功能描述 |
 | :--- | :---: | :--- |
 | **SOSO机器人** | [@soso](https://t.me/soso?start=a_6294881820) | 先改成中文用户名再搜索群组/频道/视频 |
+| Tiny Telegram Tools | [@TinyTelegramToolsBot](https://t.me/TinyTelegramToolsBot?start=itgoyotg) | 全能工具机器人：匿名收件箱、提醒与倒计时、群组记账、习惯打卡、活动管理，配套 Mini App 套件。免费使用，部分工具支持一次性 150 Stars 解锁 Pro，支持俄语/英语 |
 | **海搜** | [@haisou](https://t.me/haisou?start=a_7202424896) | 发送关键词，即可发现频道、群组、视频、音乐、图片、文件 |
 | **JISO机器人** | [@jiso](https://t.me/jiso?start=a_6294881820) | 搜索群、频道、影视、音乐、新闻等内容 |
 | **极搜JiSou** | [@jisou](https://t.me/jisou2?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容 |
